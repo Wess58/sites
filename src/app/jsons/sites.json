@@ -1,0 +1,6641 @@
+[{
+    "id": "1",
+    "sideId": "14367_NE_NI0517",
+    "siteName": "14367_NE_NI0517-AA_Embakasi_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "2",
+    "sideId": "13566_NE_NI0382",
+    "siteName": "13566_NE_NI0382-AA_Kenya_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "3",
+    "sideId": "13426_NE_NI1039",
+    "siteName": "13426_NE_NI1039-Airport_Pipeline_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "4",
+    "sideId": "16895_NE_NM1714",
+    "siteName": "16895_NE_NM1714-Airport_RD_Syokimau_OUTE_MRT_WMX",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "5",
+    "sideId": "12027_NE_NM1215",
+    "siteName": "12027_NE_NM1215-Airport_VIP_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "6",
+    "sideId": "15591_NE_NI1036",
+    "siteName": "15591_NE_NI1036-Allied_Plumbers_Mbs_Road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "7",
+    "sideId": "13859_NE_NI0442",
+    "siteName": "13859_NE_NI0442-Avenue_Park_Road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "8",
+    "sideId": "14650_NE_NI0002",
+    "siteName": "14650_NE_NI0002-Avenue_Park_View_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "9",
+    "sideId": "14874_NE_NI0583",
+    "siteName": "14874_NE_NI0583-BC_EMBAKASI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "10",
+    "sideId": "17024_NE_NM1801",
+    "siteName": "17024_NE_NM1801-CROWN_HEALTHCARE_MSA_RD_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "11",
+    "sideId": "12418_NE_NI0478",
+    "siteName": "12418_NE_NI0478-Devani_Mukuru_Kwa_Reuben_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "12",
+    "sideId": "12408_NE_NI0464",
+    "siteName": "12408_NE_NI0464-EATON_Bobmil_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "13",
+    "sideId": "NA0004",
+    "siteName": "NA0004-EMBAKASI IMPROVEMENT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "14",
+    "sideId": "16025_NE_NI1361",
+    "siteName": "16025_NE_NI1361-Embakasi_Aviation_College",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "15",
+    "sideId": "12081_NE_NI0085",
+    "siteName": "12081_NE_NI0085-Embakasi_Corner_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "16",
+    "sideId": "14712_NE_NI0531",
+    "siteName": "14712_NE_NI0531-Embakasi_DOD_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "17",
+    "sideId": "17204_NE_NI1656",
+    "siteName": "17204_NE_NI1656-Embakasi_Kwa_Kiwanja_OUTE",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "18",
+    "sideId": "12276_NE_NI0303",
+    "siteName": "12276_NE_NI0303-EMbakasi_Kware_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "19",
+    "sideId": "12345_NE_NI0349",
+    "siteName": "12345_NE_NI0349-Embakasi_Rangwani_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "20",
+    "sideId": "14423_NE_NI0515",
+    "siteName": "14423_NE_NI0515-Embakasi_Transami_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "21",
+    "sideId": "12314_NE_NI0337",
+    "siteName": "12314_NE_NI0337-Embakasi_Village_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "22",
+    "sideId": "12295_NE_NI0320",
+    "siteName": "12295_NE_NI0320-Fedha_estate_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "23",
+    "sideId": "13904_NE_NI0347",
+    "siteName": "13904_NE_NI0347-Imara_Daima_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "24",
+    "sideId": "12073_NE_NM1227",
+    "siteName": "12073_NE_NM1227-Katani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "25",
+    "sideId": "14247_NE_NI0484",
+    "siteName": "14247_NE_NI0484-Kings_Business_Park_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "26",
+    "sideId": "15049_NE_NI0730",
+    "siteName": "15049_NE_NI0730-Kobil_Airport_N_Rd_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "27",
+    "sideId": "12419_NE_NI0480",
+    "siteName": "12419_NE_NI0480-Kwa_Njenga_Mosque_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "28",
+    "sideId": "15215_NE_NI0864",
+    "siteName": "15215_NE_NI0864-Kwa_Njenga_Primary_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "29",
+    "sideId": "12179_NE_NI0228",
+    "siteName": "12179_NE_NI0228-Lima_LTD_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "30",
+    "sideId": "12299_NE_NI0324",
+    "siteName": "12299_NE_NI0324-Maasai_Fedha_Estate_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "31",
+    "sideId": "14561_NE_NM1422",
+    "siteName": "14561_NE_NM1422-Mastermind_Mombasa_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "32",
+    "sideId": "12278_NE_NM1285",
+    "siteName": "12278_NE_NM1285-Mlolongo_Impala_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "33",
+    "sideId": "12071_NE_NM1226",
+    "siteName": "12071_NE_NM1226-Mlolongo_North_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "34",
+    "sideId": "14250_NE_NM1250",
+    "siteName": "14250_NE_NM1250-Mlolongo_Police_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "35",
+    "sideId": "12214_NE_NM1259",
+    "siteName": "12214_NE_NM1259-Mlolongo_WMX_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "36",
+    "sideId": "15233_NE_NI0762",
+    "siteName": "15233_NE_NI0762-Muimara_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "37",
+    "sideId": "14636_NE_NI0558",
+    "siteName": "14636_NE_NI0558-Mukuru_Kwa_Ruben_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "38",
+    "sideId": "15333_NE_NM1518",
+    "siteName": "15333_NE_NM1518-Muthama_Heights_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "39",
+    "sideId": "12294_NE_NI0319",
+    "siteName": "12294_NE_NI0319-New_Tassia_Estate_Fedha_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "40",
+    "sideId": "12346_NE_NI0350",
+    "siteName": "12346_NE_NI0350-New_Vision_plaza_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "41",
+    "sideId": "17641_NE_NM1906",
+    "siteName": "17641_NE_NM1906-NGERANI CITY",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "42",
+    "sideId": "13914_NE_NI0079",
+    "siteName": "13914_NE_NI0079-Oriental_Millers_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "43",
+    "sideId": "15087_NE_NI0892",
+    "siteName": "15087_NE_NI0892-Philafe_Engineering_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "44",
+    "sideId": "14739_NE_NI0584",
+    "siteName": "14739_NE_NI0584-Pipeline_Lenana_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "45",
+    "sideId": "14166_NE_NI0083",
+    "siteName": "14166_NE_NI0083-PipelineLucky_Summer_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "46",
+    "sideId": "12009_NE_NI0007",
+    "siteName": "12009_NE_NI0007-Rafiki_Millers_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "47",
+    "sideId": "14330_NE_NI0477",
+    "siteName": "14330_NE_NI0477-Softa_Enterprise_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "48",
+    "sideId": "15349_NE_NM1497",
+    "siteName": "15349_NE_NM1497-Syokimau_Katani_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "49",
+    "sideId": "15494_NE_NM1536",
+    "siteName": "15494_NE_NM1536-Syokimau_Kiungani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "50",
+    "sideId": "14523_NE_NM1420",
+    "siteName": "14523_NE_NM1420-Syokimau_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "51",
+    "sideId": "14524_NE_NI0508",
+    "siteName": "14524_NE_NI0508-Tassia_II_Estate_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "52",
+    "sideId": "14742_NE_NI0585",
+    "siteName": "14742_NE_NI0585-Tassia_Kware_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "53",
+    "sideId": "12030_NE_NI0021",
+    "siteName": "12030_NE_NI0021-Telkom_Embakasi_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "54",
+    "sideId": "14480_NE_NI0519",
+    "siteName": "14480_NE_NI0519-Telkom_Mukuru_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "55",
+    "sideId": "13842_NE_NI0441",
+    "siteName": "13842_NE_NI0441-Tumaini_Estate_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "56",
+    "sideId": "14757_NE_NM1445",
+    "siteName": "14757_NE_NM1445-UN_Habitat_Syokimau_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "57",
+    "sideId": "13272_NE_NI0715",
+    "siteName": "13272_NE_NI0715-Vision_Plaza_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "58",
+    "sideId": "17668_NE_NM5899",
+    "siteName": "17668_NE_NM5899-Syokimau_Vertican_MGF_oute",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "Embakasi",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "59",
+    "sideId": "14931_NE_NM1486",
+    "siteName": "14931_NE_NM1486-Mlolongo_East_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "60",
+    "sideId": "17037_NE_NM1815",
+    "siteName": "17037_NE_NM1815-MLOLONGO_GODOWNS_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "61",
+    "sideId": "15179_NE_NM1541",
+    "siteName": "15179_NE_NM1541-Mlolongo_Madukani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "62",
+    "sideId": "14147_NE_NM1337",
+    "siteName": "14147_NE_NM1337-Mlolongo_Sabaki_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "63",
+    "sideId": "15041_NE_NM1485",
+    "siteName": "15041_NE_NM1485-Mlolongo_Valley_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "EMBAKASI",
+    "tech_1": "Stanley ",
+    "tech_2": "Abdalla Mambo"
+  },
+  {
+    "id": "64",
+    "sideId": "13702_NE_NI0378",
+    "siteName": "13702_NE_NI0378-Bahati_Annex_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "65",
+    "sideId": "12387_NE_NI0424",
+    "siteName": "12387_NE_NI0424-Balozi_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "66",
+    "sideId": "14514_NE_NI0509",
+    "siteName": "14514_NE_NI0509-Banque_Villas_South_B_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "67",
+    "sideId": "12195_NE_NI0246",
+    "siteName": "12195_NE_NI0246-Bumbani_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "68",
+    "sideId": "17247_NE_NI0813",
+    "siteName": "17247_NE_NI0813-Buru_Buru_Avocado_Court_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "69",
+    "sideId": "16004_NE_NI2778",
+    "siteName": "16004_NE_NI2778-Buru_Buru_Girls_Secondary_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "70",
+    "sideId": "15674_NE_NI1049",
+    "siteName": "15674_NE_NI1049-Buruburu_Ph_2Shepherd_Junior_Academy_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "71",
+    "sideId": "13629_NE_NI0380",
+    "siteName": "13629_NE_NI0380-Buruburu_Phase_OUTE_S_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "72",
+    "sideId": "15642_NE_NI1046",
+    "siteName": "15642_NE_NI1046-Cambodia_Plaza_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "73",
+    "sideId": "14088_NE_NI0486",
+    "siteName": "14088_NE_NI0486-Delaval_Dairy_Systems_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "74",
+    "sideId": "12184_NE_NI0234",
+    "siteName": "12184_NE_NI0234-Digo_Road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "75",
+    "sideId": "12386_NE_NI0420",
+    "siteName": "12386_NE_NI0420-Dunga_Road_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "76",
+    "sideId": "14702_NE_NI0482",
+    "siteName": "14702_NE_NI0482-Gikomba_market_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "77",
+    "sideId": "12263_NE_NI0287",
+    "siteName": "12263_NE_NI0287-Golden_Gate_Close_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "78",
+    "sideId": "14057_NE_NI0476",
+    "siteName": "14057_NE_NI0476-Gracier_Products_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "79",
+    "sideId": "12079_NE_NI0078",
+    "siteName": "12079_NE_NI0078-Ideal_Corner_Relocated_OUTE_HUB_MRT",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "80",
+    "sideId": "13748_NE_NI0411",
+    "siteName": "13748_NE_NI0411-Igwe_House_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "81",
+    "sideId": "12380_NE_NI0376",
+    "siteName": "12380_NE_NI0376-Jekima_Centre_Jogoo_RD_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "82",
+    "sideId": "12280_NE_NI0306",
+    "siteName": "12280_NE_NI0306-Jericho_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "83",
+    "sideId": "13421_NE_NI0869",
+    "siteName": "13421_NE_NI0869-Jerusalem_Kiambiu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "84",
+    "sideId": "12381_NE_NI0377",
+    "siteName": "12381_NE_NI0377-Jerusalem_Riverbank_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "85",
+    "sideId": "12008_NE_NI0006",
+    "siteName": "12008_NE_NI0006-Jogoo_Road_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "86",
+    "sideId": "13548_NE_NI0381",
+    "siteName": "13548_NE_NI0381-Jomo_Kenyatta_Foundation_WMX_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "87",
+    "sideId": "13545_NE_NI0396",
+    "siteName": "13545_NE_NI0396-Kariobangi_Mahutini_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "88",
+    "sideId": "14160_NE_NI0475",
+    "siteName": "14160_NE_NI0475-Kariobangi_roundabout_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "89",
+    "sideId": "12291_NE_NI0316",
+    "siteName": "12291_NE_NI0316-Kariobangi_south_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "90",
+    "sideId": "12180_NE_NI0229",
+    "siteName": "12180_NE_NI0229-Kariokor_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "91",
+    "sideId": "16006_NE_NI3694",
+    "siteName": "16006_NE_NI3694-Katulo_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "92",
+    "sideId": "12182_NE_NI0231",
+    "siteName": "12182_NE_NI0231-Kenya_Breweries_Ltd_OUTE_MWM",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "93",
+    "sideId": "12097_NE_NI0098",
+    "siteName": "12097_NE_NI0098-Kenya_Industrial_Estate_OUTE_MRT_HUB",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "94",
+    "sideId": "12162_NE_NI0205",
+    "siteName": "12162_NE_NI0205-Kenya_polytechnique_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "95",
+    "sideId": "15084_NE_NI0253",
+    "siteName": "15084_NE_NI0253-KPL_Nanyuki_road_OUTE_IBM",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "96",
+    "sideId": "14341_NE_NI0479",
+    "siteName": "14341_NE_NI0479-KR_Makongeni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "97",
+    "sideId": "15180_NE_NI0592",
+    "siteName": "15180_NE_NI0592-Lamu_Road_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "98",
+    "sideId": "12058_NE_NI0053",
+    "siteName": "12058_NE_NI0053-Majengo_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "99",
+    "sideId": "17025_NE_NI0580",
+    "siteName": "17025_NE_NI0580-Makongeni_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "100",
+    "sideId": "13787_NE_NI0421",
+    "siteName": "13787_NE_NI0421-Mariakani_State_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "101",
+    "sideId": "14097_NE_NI0465",
+    "siteName": "14097_NE_NI0465-Maringo_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "102",
+    "sideId": "12274_NE_NI0299",
+    "siteName": "12274_NE_NI0299-Mbale_Road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "103",
+    "sideId": "12275_NE_NI0300",
+    "siteName": "12275_NE_NI0300-Mbotela_WMX_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "104",
+    "sideId": "13882_NE_NI0407",
+    "siteName": "13882_NE_NI0407-Mogadishu_RD_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "105",
+    "sideId": "13788_NE_NI0357",
+    "siteName": "13788_NE_NI0357-MOW_Workshop_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "106",
+    "sideId": "12341_NE_NI0346",
+    "siteName": "12341_NE_NI0346-Mukuru_Kayaba_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "107",
+    "sideId": "12290_NE_NI0315",
+    "siteName": "12290_NE_NI0315-Mutarakwa_Road_WMX_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "108",
+    "sideId": "13760_NE_NI0385",
+    "siteName": "13760_NE_NI0385-Nacico_OUTE_MWM",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "109",
+    "sideId": "14252_NE_NI0473",
+    "siteName": "14252_NE_NI0473-Nairobi_Calvary_Temple_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "110",
+    "sideId": "12192_NE_NI0243",
+    "siteName": "12192_NE_NI0243-NCC_Nanyuki_Rd_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "111",
+    "sideId": "14730_NE_NI0629",
+    "siteName": "14730_NE_NI0629-New_Bahati_Estate_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "112",
+    "sideId": "13832_NE_NI0406",
+    "siteName": "13832_NE_NI0406-Ngiri_road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "113",
+    "sideId": "12010_NE_NI0008",
+    "siteName": "12010_NE_NI0008-PJ_Products_OUTE_HUB_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "114",
+    "sideId": "12181_NE_NI0230",
+    "siteName": "12181_NE_NI0230-Pumwani_Road_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "115",
+    "sideId": "14301_NE_NI0383",
+    "siteName": "14301_NE_NI0383-Shauri_moyo_clinic_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "116",
+    "sideId": "12178_NE_NI0227",
+    "siteName": "12178_NE_NI0227-South_B_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "117",
+    "sideId": "15972_NE_NI2628",
+    "siteName": "15972_NE_NI2628-South_B_Zanzibar_Rd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "118",
+    "sideId": "12041_NE_NI0034",
+    "siteName": "12041_NE_NI0034-Theevan_Enterprise_WMX_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "119",
+    "sideId": "12196_NE_NI0247",
+    "siteName": "12196_NE_NI0247-Tinda_Close_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "120",
+    "sideId": "12194_NE_NI0245",
+    "siteName": "12194_NE_NI0245-Uhuru_Estate_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "121",
+    "sideId": "14487_NE_NI0409",
+    "siteName": "14487_NE_NI0409-Wundanyi_Rd_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "122",
+    "sideId": "12177_NE_NI0226",
+    "siteName": "12177_NE_NI0226-KCB_Enterprise_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "123",
+    "sideId": "16527_NE_NIO659",
+    "siteName": "16527_NE_NIO659-Viwandani_Kwachief_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "124",
+    "sideId": "14103_NE_NI0422",
+    "siteName": "14103_NE_NI0422-Kapiti_Cresent_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "JOGOO RD",
+    "tech_1": "Barnabas ",
+    "tech_2": "Stephen Mulei"
+  },
+  {
+    "id": "125",
+    "sideId": "12080_NE_NM1447",
+    "siteName": "12080_NE_NM1447-Kitengela_Nomad_Hotel_OUT E",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "126",
+    "sideId": "12084_NE_NM1233",
+    "siteName": "12084_NE_NM1233-Athi_River_Transview_Est_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "127",
+    "sideId": "12086_NE_NM1235",
+    "siteName": "12086_NE_NM1235-Kitengela_Town_WMX_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "128",
+    "sideId": "12087_NE_NM1236",
+    "siteName": "12087_NE_NM1236-Athi_River_Ngei_II_OUT E",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "129",
+    "sideId": "12354_NE_NM1313",
+    "siteName": "12354_NE_NM1313-Kitengela_Prison_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "130",
+    "sideId": "12391_NE_NM1358",
+    "siteName": "12391_NE_NM1358-Athi_River_Mavoko_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "131",
+    "sideId": "12430_NE_NM1418",
+    "siteName": "12430_NE_NM1418-Athi_River_Acacia_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "132",
+    "sideId": "12761_NE_EC0218",
+    "siteName": "12761_NE_EC0218-Maparasha_Hill_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "133",
+    "sideId": "12762_NE_EC0219",
+    "siteName": "12762_NE_EC0219-Kajiado_Post_Office_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "134",
+    "sideId": "12763_NE_EC0220",
+    "siteName": "12763_NE_EC0220-Kajiado_SOUT E_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "135",
+    "sideId": "12764_NE_EC0222",
+    "siteName": "12764_NE_EC0222-Isinya_YOUT E_Polytechnic",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "136",
+    "sideId": "12765_NE_EC0223",
+    "siteName": "12765_NE_EC0223-Ilbissil_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "137",
+    "sideId": "12766_NE_EC0224",
+    "siteName": "12766_NE_EC0224-Namanga_Town_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "138",
+    "sideId": "12767_NE_EC0225",
+    "siteName": "12767_NE_EC0225-Namanga_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "139",
+    "sideId": "13251_NE_EC0232",
+    "siteName": "13251_NE_EC0232-Kajiado_Town_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "140",
+    "sideId": "13266_NE_EC0496",
+    "siteName": "13266_NE_EC0496-Ngatataek_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "141",
+    "sideId": "13415_NE_EC0768",
+    "siteName": "13415_NE_EC0768-Umma_University_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "142",
+    "sideId": "13830_NE_NM1357",
+    "siteName": "13830_NE_NM1357-Celtel_Lukenya_OUT E",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "143",
+    "sideId": "13986_NE_EC0221",
+    "siteName": "13986_NE_EC0221-OLOSIRUA_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "144",
+    "sideId": "13993_NE_NM1360",
+    "siteName": "13993_NE_NM1360-CELTEL_ATHI_RIVER_OUT E",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "145",
+    "sideId": "14009_NE_NM1438",
+    "siteName": "14009_NE_NM1438-Athi_River_WMX_OUT E",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "146",
+    "sideId": "14145_NE_NM1220",
+    "siteName": "14145_NE_NM1220-Kitengela_Murram_OUT E",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "147",
+    "sideId": "14347_NE_EC0233",
+    "siteName": "14347_NE_EC0233-Elangata_Wuas_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "148",
+    "sideId": "14516_NE_EC0013",
+    "siteName": "14516_NE_EC0013-Kitengela_Acacia_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "149",
+    "sideId": "14519_NE_NM1423",
+    "siteName": "14519_NE_NM1423-Athi_River_Gimu_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "150",
+    "sideId": "14550_NE_NM1424",
+    "siteName": "14550_NE_NM1424-Kitengela_Jua_Kali_OUT E",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "151",
+    "sideId": "14581_NE_NM1421",
+    "siteName": "14581_NE_NM1421-Kitengela_New_Valley_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "152",
+    "sideId": "14680_NE_NM1431",
+    "siteName": "14680_NE_NM1431-Kitengela_Milimani_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "153",
+    "sideId": "14688_NE_EC0477",
+    "siteName": "14688_NE_EC0477-Ostrich_Farm_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "154",
+    "sideId": "14700_NE_EC0467",
+    "siteName": "14700_NE_EC0467-Isinya_Town_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "155",
+    "sideId": "14740_NE_NM1446",
+    "siteName": "14740_NE_NM1446-Kitengela_Chuna_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "156",
+    "sideId": "14888_NE_EC0486",
+    "siteName": "14888_NE_EC0486-Kisaju_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "157",
+    "sideId": "14929_NE_NM1487",
+    "siteName": "14929_NE_NM1487-Athi_River_Jophila_OUT E",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "158",
+    "sideId": "15027_NE_EC0609",
+    "siteName": "15027_NE_EC0609-Namanga_Border_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "159",
+    "sideId": "15212_NE_NM1537",
+    "siteName": "15212_NE_NM1537-Athi_River_Greenpark_OUT E-0",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "160",
+    "sideId": "15219_NE_EC0476",
+    "siteName": "15219_NE_EC0476-Olooloitikosh_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "161",
+    "sideId": "15319_NE_NM1516",
+    "siteName": "15319_NE_NM1516-Athiriver_Kinanie_OUTE-0",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "162",
+    "sideId": "15387_NE_EC0722",
+    "siteName": "15387_NE_EC0722-Maili_Tisa_Namanga_Road_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "163",
+    "sideId": "15748_NE_EC0727",
+    "siteName": "15748_NE_EC0727-Kitengela_KAG_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "164",
+    "sideId": "15750_NE_NM1659",
+    "siteName": "15750_NE_NM1659-Essar_Athi_River_OUT E",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "165",
+    "sideId": "15755_NE_EC0765",
+    "siteName": "15755_NE_EC0765-KAJIADO_DC_HQ_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "166",
+    "sideId": "15759_NE_EC0834",
+    "siteName": "15759_NE_EC0834-Lukenya_OUT E-0",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "167",
+    "sideId": "15812_NE_NM1440",
+    "siteName": "15812_NE_NM1440-Pcea_Kitengela_OUT E",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "168",
+    "sideId": "16190_NE_EC0756",
+    "siteName": "16190_NE_EC0756-METO_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "169",
+    "sideId": "16469_NE_NM1709",
+    "siteName": "16469_NE_NM1709-Upper_kapiti_Athiriver",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "170",
+    "sideId": "16630_NE_EL1449",
+    "siteName": "16630_NE_EL1449-Emotoroki_OUT E",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "171",
+    "sideId": "16690_NE_EC0977",
+    "siteName": "16690_NE_EC0977-Maparasha_Center_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "172",
+    "sideId": "16691_NE_EC0976",
+    "siteName": "16691_NE_EC0976-OLTUROTO_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "173",
+    "sideId": "16752_NE_EC0757",
+    "siteName": "16752_NE_EC0757-ENKORIKA_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "174",
+    "sideId": "16754_NE_EC0748",
+    "siteName": "16754_NE_EC0748-Torosei_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "175",
+    "sideId": "16778_NE_EC0491",
+    "siteName": "16778_NE_EC0491-Lemelepo_Radio_Station_MGT_OUTE",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "176",
+    "sideId": "16971_NE_EC1137",
+    "siteName": "16971_NE_EC1137-illpatimaru_Primary_Kajiado-OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "177",
+    "sideId": "17156_NE_EC0751",
+    "siteName": "17156_NE_EC0751-LORNGOSWA_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "178",
+    "sideId": "17271_NE_EC0824",
+    "siteName": "17271_NE_EC0824-TUMAINI_ISINYA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "179",
+    "sideId": "17587_NE_NM1785",
+    "siteName": "17587_NE_NM1785-KILILI-MARKET",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "180",
+    "sideId": "17600_NE_EC1193",
+    "siteName": "17600_NE_EC1193-KOROMPOI_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "181",
+    "sideId": "17647_NE_EC1212",
+    "siteName": "17647_NE_EC1212-ISEURI_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "182",
+    "sideId": "17652_NE_EC1985",
+    "siteName": "17652_NE_EC1985_MARBA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "183",
+    "sideId": "17653_NE_EC1984",
+    "siteName": "17653_NE_EC1984-SINGIRAINE_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "184",
+    "sideId": "17678_NE_EC0690",
+    "siteName": "17678_NE_EC0690-VILLAGIO-Ngatatak",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "185",
+    "sideId": "18280_NE_NM4131",
+    "siteName": "18280_NE_NM4131_Kitengela_Prisons_Centre",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "186",
+    "sideId": "18316_NE_EC0469",
+    "siteName": "18316_NE_EC0469-Kajiado_ALMAKTOUM_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "187",
+    "sideId": "18464_NE_EC0703",
+    "siteName": "18464_NE_EC0703-Impiro_Primary_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "188",
+    "sideId": "18543_NE_NM5969",
+    "siteName": "18543_NE_NM5969-Kitengela_Starluck_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "189",
+    "sideId": "17575_NE_EC5194",
+    "siteName": "17575_NE_EC5194-Jamii_Bora_Kisaju_oute",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "190",
+    "sideId": "16468_NE_NM1716",
+    "siteName": "16468_NE_NM1716-Kitengela_Oljogi_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "191",
+    "sideId": "17085_NE_EC1005",
+    "siteName": "17085_NE_EC1005-PJ_Daves_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "192",
+    "sideId": "18910_NE_EL4753",
+    "siteName": "18910_NE_EL4753-Olgulului_Primary_School_MGF_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KAJIADO",
+    "tech_1": "Henry",
+    "tech_2": "Moenga"
+  },
+  {
+    "id": "193",
+    "sideId": "15479_NE_NM1538",
+    "siteName": "15479_NE_NM1538-APTC_Embakasi_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "194",
+    "sideId": "14101_NE_NM1398",
+    "siteName": "14101_NE_NM1398-Buruburu_Farmtd_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "195",
+    "sideId": "12423_NE_NI0487",
+    "siteName": "12423_NE_NI0487-Dandora_Mowlem_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "196",
+    "sideId": "15110_NE_NI0793",
+    "siteName": "15110_NE_NI0793-Donholm_phase_8_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "197",
+    "sideId": "12051_NE_NI0044",
+    "siteName": "12051_NE_NI0044-DoonHolm_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "198",
+    "sideId": "12197_NE_NI0248",
+    "siteName": "12197_NE_NI0248-DoonHolm_West_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "199",
+    "sideId": "12076_NE_NI0075",
+    "siteName": "12076_NE_NI0075-Jacaranda_Estate_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "200",
+    "sideId": "14928_NE_NM1465",
+    "siteName": "14928_NE_NM1465-Joska_Centre_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "201",
+    "sideId": "17677_NE_NM1907",
+    "siteName": "17677_NE_NM1907-Joska_Missions_of_Hope_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "202",
+    "sideId": "13344_NE_NM1439",
+    "siteName": "13344_NE_NM1439-Kamulu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "203",
+    "sideId": "13495_NE_NM1514",
+    "siteName": "13495_NE_NM1514-Kamulu_Stage_26_GenOFF_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "204",
+    "sideId": "12200_NE_NI0251",
+    "siteName": "12200_NE_NI0251-Kangundo_Rd_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "205",
+    "sideId": "12204_NE_NI0256",
+    "siteName": "12204_NE_NI0256-Kayole_Church_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "206",
+    "sideId": "14083_NE_NI0087",
+    "siteName": "14083_NE_NI0087-Kayole_East_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "207",
+    "sideId": "12407_NE_NI0463",
+    "siteName": "12407_NE_NI0463-Kayole_Kianda_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "208",
+    "sideId": "14297_NE_NI0011",
+    "siteName": "14297_NE_NI0011-Kayole_Kioi_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "209",
+    "sideId": "12309_NE_NI0333",
+    "siteName": "12309_NE_NI0333-Kayole_Mworoto_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "210",
+    "sideId": "12205_NE_NI0257",
+    "siteName": "12205_NE_NI0257-Kayole_Phase_II_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "211",
+    "sideId": "12312_NE_NI0335",
+    "siteName": "12312_NE_NI0335-Kayole_Phase_III_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "212",
+    "sideId": "12406_NE_NI0462",
+    "siteName": "12406_NE_NI0462-Kayole_Rasta_Stage_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "213",
+    "sideId": "12342_NE_NI0348",
+    "siteName": "12342_NE_NI0348-Kayole_Saba_Saba_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "214",
+    "sideId": "13605_NE_NI0379",
+    "siteName": "13605_NE_NI0379-Kayole_Section_I_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "215",
+    "sideId": "12325_NE_NI0341",
+    "siteName": "12325_NE_NI0341-Kayole_Sokoni_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "216",
+    "sideId": "12313_NE_NI0336",
+    "siteName": "12313_NE_NI0336Kayole_Soweto_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "217",
+    "sideId": "12307_NE_NI0331",
+    "siteName": "12307_NE_NI0331-Komarock_Masimba_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "218",
+    "sideId": "12306_NE_NI0330",
+    "siteName": "12306_NE_NI0330-Komarock_Mukoma_Court_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "219",
+    "sideId": "15635_NE_NI1050",
+    "siteName": "15635_NE_NI1050-Komarock_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "220",
+    "sideId": "12026_NE_NI0017",
+    "siteName": "12026_NE_NI0017-Komarok_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "221",
+    "sideId": "17027_NE_NM1795",
+    "siteName": "17027_NE_NM1795-Malaa_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "222",
+    "sideId": "14366_NE_NM1407",
+    "siteName": "14366_NE_NM1407-Mihango_Bypass_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "223",
+    "sideId": "14167_NE_NM1240",
+    "siteName": "14167_NE_NM1240-Mihango_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "224",
+    "sideId": "14417_NE_NI0512",
+    "siteName": "14417_NE_NI0512-Naivas_Donholm_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "225",
+    "sideId": "16498_NE_NM1492",
+    "siteName": "16498_NE_NM1492-Njiru_Chokaa_Legio_Maria_Church_OUTE",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "226",
+    "sideId": "12330_NE_NM1301",
+    "siteName": "12330_NE_NM1301-Njiru_Makongeni_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "227",
+    "sideId": "14741_NE_NM1463",
+    "siteName": "14741_NE_NM1463-PCEA_Ruai_West_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "228",
+    "sideId": "12402_NE_NM1372",
+    "siteName": "12402_NE_NM1372-Ruai_Bondeni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "229",
+    "sideId": "12332_NE_NM1303",
+    "siteName": "12332_NE_NM1303-Ruai_East_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "230",
+    "sideId": "12018_NE_NM1210",
+    "siteName": "12018_NE_NM1210-Ruai_Estate_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "231",
+    "sideId": "14756_NE_NM1451",
+    "siteName": "14756_NE_NM1451-Ruai_Flyover_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "232",
+    "sideId": "15380_NE_NM1533",
+    "siteName": "15380_NE_NM1533-Ruai_Junction_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "233",
+    "sideId": "14547_NE_NM1406",
+    "siteName": "14547_NE_NM1406-Ruai_Makongeni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "234",
+    "sideId": "15626_NE_NM1640",
+    "siteName": "15626_NE_NM1640-Ruai_YU_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "235",
+    "sideId": "15595_NE_NI1052",
+    "siteName": "15595_NE_NI1052-Shaloam_Jr_Acm_Kay_Matopeni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "236",
+    "sideId": "12298_NE_NI0323",
+    "siteName": "12298_NE_NI0323-SunRise_Estate_WMX_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "237",
+    "sideId": "13738_NE_NI0412",
+    "siteName": "13738_NE_NI0412-Tena_Estate_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "238",
+    "sideId": "12385_NE_NI0414",
+    "siteName": "12385_NE_NI0414-Umoja_Busara_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "239",
+    "sideId": "13730_NE_NI0413",
+    "siteName": "13730_NE_NI0413-Umoja_Estate_Innercore_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "240",
+    "sideId": "12297_NE_NI0322",
+    "siteName": "12297_NE_NI0322-Umoja_I_Innercore_WMX_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "241",
+    "sideId": "12296_NE_NI0321",
+    "siteName": "12296_NE_NI0321-Umoja_IC_GenOFF_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "242",
+    "sideId": "14587_NE_NI0505",
+    "siteName": "14587_NE_NI0505-Umoja_III_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "243",
+    "sideId": "12302_NE_NI0327",
+    "siteName": "12302_NE_NI0327-Umoja_Moi_Drive_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "244",
+    "sideId": "13749_NE_NI0410",
+    "siteName": "13749_NE_NI0410-Umoja_Mutindwa_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "245",
+    "sideId": "12201_NE_NI0252",
+    "siteName": "12201_NE_NI0252-Umoja_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "246",
+    "sideId": "17676_NE_NM1913",
+    "siteName": "17676_NE_NM1913-Utawala Zebra",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "247",
+    "sideId": "12331_NE_NM1302",
+    "siteName": "12331_NE_NM1302-Utawala_Estate_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "248",
+    "sideId": "13496_NE_NM1515",
+    "siteName": "13496_NE_NM1515-Utawala_Githunguri_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "249",
+    "sideId": "15453_NE_NM1551",
+    "siteName": "15453_NE_NM1551-Utawala_Kibiku_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "250",
+    "sideId": "12203_NE_NI0255",
+    "siteName": "12203_NE_NI0255-Komarock_NCC_OUT E",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "251",
+    "sideId": "17623_NE_NM5894",
+    "siteName": "17623_NE_NM5894-Mihango Cordindini Convent",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "252",
+    "sideId": "17566_NE_5877",
+    "siteName": "17566_NE_5877_Eastern Bypass Onyatta_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "253",
+    "sideId": "17672_NE_NM1910",
+    "siteName": "17672_NE_NM1910-Ruai_Catholic_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KANGUNDO RD",
+    "tech_1": "Paul Kinyanjui",
+    "tech_2": "Justus Mogeni "
+  },
+  {
+    "id": "254",
+    "sideId": "17663_NE_EL1976",
+    "siteName": "17663_NE_EL1976-Kwa_Muli_Market_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "255",
+    "sideId": "13796_NE_EL1155",
+    "siteName": "13796_NE_EL1155-Endau_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "256",
+    "sideId": "13594_NE_EL0832",
+    "siteName": "13594_NE_EL0832-IKANGA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "257",
+    "sideId": "12560_NE_EL0808",
+    "siteName": "12560_NE_EL0808-IKUTHA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "258",
+    "sideId": "14686_NE_EL1179",
+    "siteName": "14686_NE_EL1179-Inyuu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "259",
+    "sideId": "15341_NE_EL1417",
+    "siteName": "15341_NE_EL1417-Kamutei_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "260",
+    "sideId": "13930_NE_EL1151",
+    "siteName": "13930_NE_EL1151-KANTHUNI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "261",
+    "sideId": "15190_NE_EL1204",
+    "siteName": "15190_NE_EL1204-KANYANGI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "262",
+    "sideId": "16571_NE_EL1669",
+    "siteName": "16571_NE_EL1669-Kasaala_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "263",
+    "sideId": "13617_NE_EL0831",
+    "siteName": "13617_NE_EL0831-KASEVE_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "264",
+    "sideId": "13806_NE_EL1157",
+    "siteName": "13806_NE_EL1157-KATULANI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "265",
+    "sideId": "13929_NE_EL1150",
+    "siteName": "13929_NE_EL1150-KAVISUNI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "266",
+    "sideId": "12587_NE_EL0821",
+    "siteName": "12587_NE_EL0821-KILONZO_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "267",
+    "sideId": "12585_NE_EL0819",
+    "siteName": "12585_NE_EL0819-KISASI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "268",
+    "sideId": "18282_NE_EL1935",
+    "siteName": "18282_NE_EL1935-KITOO_NEW",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "269",
+    "sideId": "16567_NE_EL1673",
+    "siteName": "16567_NE_EL1673-Kyamatu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "270",
+    "sideId": "15728_NE_EL1218",
+    "siteName": "15728_NE_EL1218-KYATUNE_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "271",
+    "sideId": "14121_NE_EL1182",
+    "siteName": "14121_NE_EL1182-KYOANI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "272",
+    "sideId": "13504_NE_EL1567",
+    "siteName": "13504_NE_EL1567-Maliku_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "273",
+    "sideId": "16570_NE_EL1670",
+    "siteName": "16570_NE_EL1670-Manzee_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "274",
+    "sideId": "14015_NE_EL1181",
+    "siteName": "14015_NE_EL1181-MOSA_MKT_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "275",
+    "sideId": "13457_NE_EL1459",
+    "siteName": "13457_NE_EL1459-Mulango_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "276",
+    "sideId": "13981_NE_EL1149",
+    "siteName": "13981_NE_EL1149-MUTHA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "277",
+    "sideId": "16566_NE_EL1674",
+    "siteName": "16566_NE_EL1674-Muthue_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "278",
+    "sideId": "12592_NE_EL0825",
+    "siteName": "12592_NE_EL0825-Mutitu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "279",
+    "sideId": "12588_NE_EL0822",
+    "siteName": "12588_NE_EL0822-MUTOMO_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "280",
+    "sideId": "17626_NE_EL1972",
+    "siteName": "17626_NE_EL1972-Mwewe_Katalwa_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "281",
+    "sideId": "17048_NE_EL1794",
+    "siteName": "17048_NE_EL1794-Mwitika_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "282",
+    "sideId": "16610_NE_EL1617",
+    "siteName": "16610_NE_EL1617-Ndatani_MGF_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "283",
+    "sideId": "17640_NE_EL1727",
+    "siteName": "17640_NE_EL1727-Ngangani",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "284",
+    "sideId": "17644_NE_EL1754",
+    "siteName": "17644_NE_EL1754-Nguuni_MGF_NEW",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "285",
+    "sideId": "13020_NE_EL1217",
+    "siteName": "13020_NE_EL1217-Nzangathi_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "286",
+    "sideId": "16897_NE_EL1524",
+    "siteName": "16897_NE_EL1524-Simisi_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "287",
+    "sideId": "14134_NE_EL1180",
+    "siteName": "14134_NE_EL1180-VOO_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "288",
+    "sideId": "13928_NE_EL1148",
+    "siteName": "13928_NE_EL1148-Wikililye_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "289",
+    "sideId": "12589_NE_EL0823",
+    "siteName": "12589_NE_EL0823-Zombe_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "290",
+    "sideId": "17592_NE_EL5927",
+    "siteName": "17592_NE_EL5927-Kiongwe_MGF_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "291",
+    "sideId": "18428_NE_EL1419",
+    "siteName": "18428_NE_EL1419-Kakumi_Hill_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "292",
+    "sideId": "18891_NE_EL5918",
+    "siteName": "18891_NE_EL5918-Kaliku_OUTE",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "293",
+    "sideId": "18636_NE_EL4762-",
+    "siteName": "18636_NE_EL4762-Kalambani_Hill_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "294",
+    "sideId": "17617_NE_EL5925",
+    "siteName": "17617_NE_EL5925-Makongo_Hill_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "KITUI TEAM",
+    "tech_1": "Mnezi",
+    "tech_2": "Kelvin Mwangi"
+  },
+  {
+    "id": "295",
+    "sideId": "16960_NE_NI5772",
+    "siteName": "16960_NE_NI5772_Southern_Bypass_Parkview_OUTE",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "296",
+    "sideId": "18599_NE_NM0157",
+    "siteName": "18599_NE_NM0157_Macuurie_Rimpa_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "297",
+    "sideId": "14692_NE_NI0054",
+    "siteName": "14692_NE_NI0054-Ambar_House_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "298",
+    "sideId": "13860_NE_NI0416",
+    "siteName": "13860_NE_NI0416-Barclay_House_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "299",
+    "sideId": "12042_NE_NI0035",
+    "siteName": "12042_NE_NI0035-Belle_Vue_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "300",
+    "sideId": "15133_NE_NM1520",
+    "siteName": "15133_NE_NM1520-Bomas_of_Kenya_OUTE",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "301",
+    "sideId": "12011_NE_NM1205",
+    "siteName": "12011_NE_NM1205-Bomas_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "302",
+    "sideId": "12044_NE_NI0038",
+    "siteName": "12044_NE_NI0038-Brunei_House_OUTE_MRT",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "303",
+    "sideId": "16156_NE_NI2577",
+    "siteName": "16156_NE_NI2577-China_Estate_COW_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "304",
+    "sideId": "16155_NE_NM0812",
+    "siteName": "16155_NE_NM0812-CUEA_IBM_CONFERENCE_COW_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "305",
+    "sideId": "15603_NE_NI1067",
+    "siteName": "15603_NE_NI1067-Dr_Mike_Wanga_Langata_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "306",
+    "sideId": "15618_NE_NI1035",
+    "siteName": "15618_NE_NI1035-Family_Health_plaza_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "307",
+    "sideId": "12335_NE_NM1305",
+    "siteName": "12335_NE_NM1305-Farah_Road_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "308",
+    "sideId": "12063_NE_NM1225",
+    "siteName": "12063_NE_NM1225-Hardy_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "309",
+    "sideId": "14566_NE_NM1415",
+    "siteName": "14566_NE_NM1415-Karen_Bogani_OUTE",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "310",
+    "sideId": "14105_NE_NM1230",
+    "siteName": "14105_NE_NM1230-Karen_Catholic_University_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "311",
+    "sideId": "14099_NE_NM1334",
+    "siteName": "14099_NE_NM1334-Karen_CEMASTEA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "312",
+    "sideId": "14522_NE_NM1335",
+    "siteName": "14522_NE_NM1335-Karen_Go_left_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "313",
+    "sideId": "12223_NE_NM1269",
+    "siteName": "12223_NE_NM1269-Karen_Light_Academy_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "314",
+    "sideId": "14340_NE_NM1416",
+    "siteName": "14340_NE_NM1416-Karen_Makinduri_Road_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "315",
+    "sideId": "15588_NE_NM1657",
+    "siteName": "15588_NE_NM1657-Karen_Nakumatt_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "316",
+    "sideId": "15658_NE_NM1650",
+    "siteName": "15658_NE_NM1650-Karen_Ndege_Road_YU_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "317",
+    "sideId": "12031_NE_NM1216",
+    "siteName": "12031_NE_NM1216-Karen_WMX_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "318",
+    "sideId": "13865_NE_NI0370",
+    "siteName": "13865_NE_NI0370-Kibera_South_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "319",
+    "sideId": "12156_NE_NI0199",
+    "siteName": "12156_NE_NI0199-KIRDI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "320",
+    "sideId": "14927_NE_NI0639",
+    "siteName": "14927_NE_NI0639-KWS_HQ_OUTE",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "321",
+    "sideId": "13401_NE_NM1656",
+    "siteName": "13401_NE_NM1656-Landrover_karen_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "322",
+    "sideId": "14711_NE_NI0529",
+    "siteName": "14711_NE_NI0529-Langata_Barracks_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "323",
+    "sideId": "12149_NE_NI0190",
+    "siteName": "12149_NE_NI0190-Langata_DOD_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "324",
+    "sideId": "15860_NE_NI2781",
+    "siteName": "15860_NE_NI2781-Langata_Jonathan_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "325",
+    "sideId": "14551_NE_NI0511",
+    "siteName": "14551_NE_NI0511-Langata_Old_Uchumi_OUTE",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "326",
+    "sideId": "12062_NE_NM1224",
+    "siteName": "12062_NE_NM1224-Langata_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "327",
+    "sideId": "12043_NE_NI0037",
+    "siteName": "12043_NE_NI0037-Madaraka_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "328",
+    "sideId": "15949_NE_NI2644",
+    "siteName": "15949_NE_NI2644-Mai_Mahiu_Road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "329",
+    "sideId": "12336_NE_NM1306",
+    "siteName": "12336_NE_NM1306-Marulla_Lane_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "330",
+    "sideId": "15947_NE_NI2900",
+    "siteName": "15947_NE_NI2900-Moi_Education_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "331",
+    "sideId": "12254_NE_NI0277",
+    "siteName": "12254_NE_NI0277-Muhuti_Crescent_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "332",
+    "sideId": "14213_NE_NM1231",
+    "siteName": "14213_NE_NM1231-Mukoyeti_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "333",
+    "sideId": "15604_NE_NI1068",
+    "siteName": "15604_NE_NI1068-Nairobi_Dam_Estate_YU_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "334",
+    "sideId": "12157_NE_NI0200",
+    "siteName": "12157_NE_NI0200-Nairobi_West_WMX_OUTE",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "335",
+    "sideId": "14852_NE_NI0627",
+    "siteName": "14852_NE_NI0627-New_Apostolic_ChurchSouth_C_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "336",
+    "sideId": "12075_NE_NI0073",
+    "siteName": "12075_NE_NI0073-Ngei_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "337",
+    "sideId": "14894_NE_NI0624",
+    "siteName": "14894_NE_NI0624-NHC_Madaraka_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "338",
+    "sideId": "14774_NE_NI0532",
+    "siteName": "14774_NE_NI0532-Nyayo_Stadium_Tower_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "339",
+    "sideId": "12002_NE_NI0003",
+    "siteName": "12002_NE_NI0003-Onyonka_WMX_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "340",
+    "sideId": "12256_NE_NI0279",
+    "siteName": "12256_NE_NI0279-Ramco_Court_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "341",
+    "sideId": "12392_NE_NI0443",
+    "siteName": "12392_NE_NI0443-Shallom_Court_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "342",
+    "sideId": "12220_NE_NM1266",
+    "siteName": "12220_NE_NM1266-Sian_Roses_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "343",
+    "sideId": "12064_NE_NI0062",
+    "siteName": "12064_NE_NI0062-South_C_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "344",
+    "sideId": "15320_NE_NM1555",
+    "siteName": "15320_NE_NM1555-Southern_Bypass_Karinde_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "345",
+    "sideId": "15524_NE_NM1568",
+    "siteName": "15524_NE_NM1568-Southern_Bypass_Kuwinda_OUTE",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "346",
+    "sideId": "15334_NE_NM1554",
+    "siteName": "15334_NE_NM1554-Southern_Bypass_Muituni_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "347",
+    "sideId": "15725_NE_NI0733",
+    "siteName": "15725_NE_NI0733-Southern_Bypass_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "348",
+    "sideId": "12243_NE_NI0269",
+    "siteName": "12243_NE_NI0269-Southlands_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "349",
+    "sideId": "14323_NE_NI0514",
+    "siteName": "14323_NE_NI0514-St_Cathrine_Church_South_C_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "350",
+    "sideId": "13831_NE_NI0417",
+    "siteName": "13831_NE_NI0417-Stadium_OUTE",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "351",
+    "sideId": "12393_NE_NI0444",
+    "siteName": "12393_NE_NI0444-Sun_Valley_Estate_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "352",
+    "sideId": "15073_NE_NI0692",
+    "siteName": "15073_NE_NI0692-United_Complex_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "353",
+    "sideId": "12251_NE_NI0274",
+    "siteName": "12251_NE_NI0274-Uwity_Court_WMX_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "354",
+    "sideId": "15590_NE_NM1646",
+    "siteName": "15590_NE_NM1646-Warai_Road_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "355",
+    "sideId": "12252_NE_NI0275",
+    "siteName": "12252_NE_NI0275-Wilson_Airport_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "356",
+    "sideId": "15836_NE_NM1539",
+    "siteName": "15836_NE_NM1539-YU_HARDY",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "LANGATA",
+    "tech_1": "Clement Irungu",
+    "tech_2": "Andrew Tabuche"
+  },
+  {
+    "id": "357",
+    "sideId": "13446_NE_EC0800",
+    "siteName": "13446_NE_EC0800-AIC_Mbooni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "358",
+    "sideId": "16786_NE_EC0435",
+    "siteName": "16786_NE_EC0435-Ilmamen_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "359",
+    "sideId": "13348_NE_EL1183",
+    "siteName": "13348_NE_EL1183-KAGONDI_MKT_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "360",
+    "sideId": "12565_NE_EL0812",
+    "siteName": "12565_NE_EL0812-KALAWA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "361",
+    "sideId": "14346_NE_EC0411",
+    "siteName": "14346_NE_EC0411-KALAWANI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "362",
+    "sideId": "17536_NE_EC1980",
+    "siteName": "17536_NE_EC1980-Kapiti_Hill_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "363",
+    "sideId": "16683_NE_EC0984",
+    "siteName": "16683_NE_EC0984-Kasolongo_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "364",
+    "sideId": "14721_NE_EL1194",
+    "siteName": "14721_NE_EL1194-KATANGA_HILL_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "365",
+    "sideId": "14018_NE_EL1172",
+    "siteName": "14018_NE_EL1172-KATANGINI_GenOFF_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "366",
+    "sideId": "16756_NE_EC0744",
+    "siteName": "16756_NE_EC0744-Katelembo_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "367",
+    "sideId": "12545_NE_EL0804",
+    "siteName": "12545_NE_EL0804-KATHONZWENI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "368",
+    "sideId": "16568_NE_EL1672",
+    "siteName": "16568_NE_EL1672-Katumani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "369",
+    "sideId": "14350_NE_EL1158",
+    "siteName": "14350_NE_EL1158-KAUMONI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "370",
+    "sideId": "16692_NE_EC0975",
+    "siteName": "16692_NE_EC0975-Kavumbu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "371",
+    "sideId": "14722_NE_EL1340",
+    "siteName": "14722_NE_EL1340-KIKIMA_TOWN_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "372",
+    "sideId": "14752_NE_EC0440",
+    "siteName": "14752_NE_EC0440-KIMUTWA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "373",
+    "sideId": "17007_NE_EL1766",
+    "siteName": "17007_NE_EL1766-KITANDI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "374",
+    "sideId": "15159_NE_EL1401",
+    "siteName": "15159_NE_EL1401-Kitandini_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "375",
+    "sideId": "12570_NE_EC0125",
+    "siteName": "12570_NE_EC0125-KITHUIA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "376",
+    "sideId": "12557_NE_EC0122",
+    "siteName": "12557_NE_EC0122-KITULANI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "377",
+    "sideId": "16569_NE_EL1671",
+    "siteName": "16569_NE_EL1671-Kitundu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "378",
+    "sideId": "14751_NE_EL1345",
+    "siteName": "14751_NE_EL1345-KIVANI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "379",
+    "sideId": "13808_NE_EL1156",
+    "siteName": "13808_NE_EL1156-Kola_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "380",
+    "sideId": "16677_NE_EC0990",
+    "siteName": "16677_NE_EC0990-Konza_kwa_katheke_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "381",
+    "sideId": "13558_NE_EC0229",
+    "siteName": "13558_NE_EC0229-Konza_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "382",
+    "sideId": "13346_NE_EC0416",
+    "siteName": "13346_NE_EC0416-Kwa_Kulomba_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "383",
+    "sideId": "15504_NE_EC0454",
+    "siteName": "15504_NE_EC0454-MAANZONI_LODGE_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "384",
+    "sideId": "14318_NE_EC0422",
+    "siteName": "14318_NE_EC0422-Maanzoni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "385",
+    "sideId": "15390_NE_EC0708",
+    "siteName": "15390_NE_EC0708-Machakos_Mumbuni_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "386",
+    "sideId": "12573_NE_EC0128",
+    "siteName": "12573_NE_EC0128-MACHAKOS_EASTLEIGH_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "387",
+    "sideId": "13946_NE_EC0409",
+    "siteName": "13946_NE_EC0409-MACHAKOS_JUNCTION_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "388",
+    "sideId": "13795_NE_EC0406",
+    "siteName": "13795_NE_EC0406-MACHAKOS_KARIOBANGI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "389",
+    "sideId": "14399_NE_EC0431",
+    "siteName": "14399_NE_EC0431-MACHAKOS_KATOLONI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "390",
+    "sideId": "15009_NE_EC0968",
+    "siteName": "15009_NE_EC0968-MACHAKOS_KIIMA_KIMWE_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "391",
+    "sideId": "12574_NE_EC0129",
+    "siteName": "12574_NE_EC0129-MACHAKOS_MANZA_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "392",
+    "sideId": "12571_NE_EC0126",
+    "siteName": "12571_NE_EC0126-MACHAKOS_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "393",
+    "sideId": "13340_NE_EC0405",
+    "siteName": "13340_NE_EC0405-MAKAVETI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "394",
+    "sideId": "16682_NE_EC0985",
+    "siteName": "16682_NE_EC0985-Mavindu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "395",
+    "sideId": "14725_NE_EL1222",
+    "siteName": "14725_NE_EL1222-MBA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "396",
+    "sideId": "12581_NE_EC0137",
+    "siteName": "12581_NE_EC0137-MBEVO_Hill_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "397",
+    "sideId": "12582_NE_EL0816",
+    "siteName": "12582_NE_EL0816-MBOONI_HILL_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "398",
+    "sideId": "12562_NE_EL0809",
+    "siteName": "12562_NE_EL0809-MBUMBUNI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "399",
+    "sideId": "17627_NE_EC1235",
+    "siteName": "17627_NE_EC1235-Mua_Kaseve_NEW",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "400",
+    "sideId": "13441_NE_EC0802",
+    "siteName": "13441_NE_EC0802-Mua_Kitanga_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "401",
+    "sideId": "17021_NE_EC1873",
+    "siteName": "17021_NE_EC1873-MUA_KWA_MBATHA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "402",
+    "sideId": "16572_NE_EL1668",
+    "siteName": "16572_NE_EL1668-Mumbuni_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "403",
+    "sideId": "17634_NE_NE1767",
+    "siteName": "17634_NE_NE1767-Mutulani",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "404",
+    "sideId": "17061_NE_EC1896",
+    "siteName": "17061_NE_EC1896-NGIINI_MARKET_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "405",
+    "sideId": "16674_NE_EC0993",
+    "siteName": "16674_NE_EC0993-Nthungoni_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "406",
+    "sideId": "13925_NE_EL1152",
+    "siteName": "13925_NE_EL1152-NZIU_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "407",
+    "sideId": "12583_NE_EL0817",
+    "siteName": "12583_NE_EL0817-THUE_HILL_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "408",
+    "sideId": "12584_NE_EL0818",
+    "siteName": "12584_NE_EL0818-UNOA_HillWMX_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "409",
+    "sideId": "16666_NE_EL1213",
+    "siteName": "16666_NE_EL1213-Wote_Shimo_Estate_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "410",
+    "sideId": "14034_NE_EL1188",
+    "siteName": "14034_NE_EL1188-WOTE_TOWN_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "411",
+    "sideId": "15742_NE_EC0836",
+    "siteName": "15742_NE_EC0836-YU_KONZA_RANCH_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "412",
+    "sideId": "17571_NE_EC1868",
+    "siteName": "17571_NE_EC1868-WANZAUNI_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "413",
+    "sideId": "17631_NE_EC1990",
+    "siteName": "17631_NE_EC1990-MUNYINI-MGF-OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "414",
+    "sideId": "14138_NE_EL1170",
+    "siteName": "14138_NE_EL1170-NYUNZU_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "415",
+    "sideId": "17679_NE_EL0817",
+    "siteName": "17679_NE_EL0817-Yeemulwa_market_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "416",
+    "sideId": "17635_NE_EC199",
+    "siteName": "17635_NE_EC1991-Muumandu_MGF_NEW",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "417",
+    "sideId": "17586_NE_EL1905",
+    "siteName": "17586_NE_EL1905_Kilala_oute",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MACHA A",
+    "tech_1": "Alex",
+    "tech_2": "Wanjeru "
+  },
+  {
+    "id": "418",
+    "sideId": "18877_NE_EC5244",
+    "siteName": "18877_NE_EC5244-MBAANI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "419",
+    "sideId": "17580_NE_ECL182",
+    "siteName": "17580_NE_ECL182_Katheka miseleni_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "420",
+    "sideId": "17629_NE_EL5724",
+    "siteName": "17629_NE_EL5724-Mukuyuni_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "421",
+    "sideId": "16670_NE_EC04997",
+    "siteName": "16670_NE_EC04997-Kikomba_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "422",
+    "sideId": "12564_NE_EL0811",
+    "siteName": "12564_NE_EL0811-IKALAASA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "423",
+    "sideId": "17608_NE_EC1219",
+    "siteName": "17608_NE_EC1219-KYAWANGO_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "424",
+    "sideId": "16684_NE_EC0983",
+    "siteName": "16684_NE_EC0983-Isyukoni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "425",
+    "sideId": "16673_NE_EC0994",
+    "siteName": "16673_NE_EC0994-Ivumbuni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "426",
+    "sideId": "13984_NE_EC0395",
+    "siteName": "13984_NE_EC0395-Kabaa_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "427",
+    "sideId": "12553_NE_EC0118",
+    "siteName": "12553_NE_EC0118-Kakuyuni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "428",
+    "sideId": "12578_NE_EC0134",
+    "siteName": "12578_NE_EC0134-KALALA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "429",
+    "sideId": "16675_NE_EC0992",
+    "siteName": "16675_NE_EC0992-Kalandini_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "430",
+    "sideId": "16679_NE_EC0988",
+    "siteName": "16679_NE_EC0988-Kambusu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "431",
+    "sideId": "12577_NE_EC0133",
+    "siteName": "12577_NE_EC0133-Kamuthanga_Hill_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "432",
+    "sideId": "13345_NE_EC0415",
+    "siteName": "13345_NE_EC0415-Kangundo_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "433",
+    "sideId": "12554_NE_EC0119",
+    "siteName": "12554_NE_EC0119-Kathiani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "434",
+    "sideId": "14724_NE_EC0474",
+    "siteName": "14724_NE_EC0474-Kathithyamaa_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "435",
+    "sideId": "13694_NE_EC0205",
+    "siteName": "13694_NE_EC0205-KAVIANI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "436",
+    "sideId": "16686_NE_EC0981",
+    "siteName": "16686_NE_EC0981-Kikesa_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "437",
+    "sideId": "16780_NE_EC0489",
+    "siteName": "16780_NE_EC0489-Kilembwa_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "438",
+    "sideId": "16785_NE_EC0436",
+    "siteName": "16785_NE_EC0436-Kinyui_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "439",
+    "sideId": "13983_NE_EC0394",
+    "siteName": "13983_NE_EC0394-Kisukioni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "440",
+    "sideId": "17008_NE_EC1965",
+    "siteName": "17008_NE_EC1965-Kithangaini_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "441",
+    "sideId": "16672_NE_EC0995",
+    "siteName": "16672_NE_EC0995-Kithini_Market_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "442",
+    "sideId": "16681_NE_EC0986",
+    "siteName": "16681_NE_EC0986-Kitie_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "443",
+    "sideId": "15220_NE_EC1113",
+    "siteName": "15220_NE_EC1113-Kivaani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "444",
+    "sideId": "15223_NE_NM1542",
+    "siteName": "15223_NE_NM1542-Komarock_shrine_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "445",
+    "sideId": "12085_NE_NM1234",
+    "siteName": "12085_NE_NM1234-Kongoni_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "446",
+    "sideId": "16678_NE_EC0989",
+    "siteName": "16678_NE_EC0989-Kwa_Kathule_Market_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "447",
+    "sideId": "14720_NE_EC0433",
+    "siteName": "14720_NE_EC0433-KYEVALUKI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "448",
+    "sideId": "13625_NE_EC0204",
+    "siteName": "13625_NE_EC0204-LITA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "449",
+    "sideId": "13341_NE_EC0408",
+    "siteName": "13341_NE_EC0408-MAKUTANO_MASII_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "450",
+    "sideId": "14750_NE_EC0443",
+    "siteName": "14750_NE_EC0443-MASIITOWN_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "451",
+    "sideId": "14913_NE_EC0611",
+    "siteName": "14913_NE_EC0611-Matetani_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "452",
+    "sideId": "15000_NE_EC0540",
+    "siteName": "15000_NE_EC0540-Matuu_Ma_Mwitu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "453",
+    "sideId": "12552_NE_EC0117",
+    "siteName": "12552_NE_EC0117-Mauni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "454",
+    "sideId": "12483_NE_EC0049",
+    "siteName": "12483_NE_EC0049-Mbilini_OUTE_HUB_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "455",
+    "sideId": "14396_NE_EC0400",
+    "siteName": "14396_NE_EC0400-Mbiuni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "456",
+    "sideId": "16687_NE_EC0980",
+    "siteName": "16687_NE_EC0980-Mbusyani_Market_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "457",
+    "sideId": "16671_NE_EC0996",
+    "siteName": "16671_NE_EC0996-Mililu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "458",
+    "sideId": "17036_NE_EC1135",
+    "siteName": "17036_NE_EC1135-Misakwani_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "459",
+    "sideId": "14753_NE_EC0453",
+    "siteName": "14753_NE_EC0453-Mitaboni_Town_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "460",
+    "sideId": "14041_NE_EC0417",
+    "siteName": "14041_NE_EC0417-MIU_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "461",
+    "sideId": "15038_NE_EC1086",
+    "siteName": "15038_NE_EC1086-MUAKYASILA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "462",
+    "sideId": "14946_NE_EC0466",
+    "siteName": "14946_NE_EC0466-Mungala_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "463",
+    "sideId": "12555_NE_EC0121",
+    "siteName": "12555_NE_EC0121-MUTHETHENI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "464",
+    "sideId": "16742_NE_EC0877",
+    "siteName": "16742_NE_EC0877-MUTHWANI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "465",
+    "sideId": "14017_NE_EC0396",
+    "siteName": "14017_NE_EC0396-Mwala_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "466",
+    "sideId": "17059_NE_EC1870",
+    "siteName": "17059_NE_EC1870-NGALALYA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "467",
+    "sideId": "13349_NE_EC0419",
+    "siteName": "13349_NE_EC0419-Nguluni_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "468",
+    "sideId": "13443_NE_EC0801",
+    "siteName": "13443_NE_EC0801-Tala_AIC_Kasinga_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "469",
+    "sideId": "19152_NE_EC1237",
+    "siteName": "19152_NE_EC1237_TALA_MISUUNI",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "470",
+    "sideId": "12579_NE_EC0135",
+    "siteName": "12579_NE_EC0135-Tala_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "471",
+    "sideId": "14042_NE_EL1185",
+    "siteName": "14042_NE_EL1185-TULILA_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "472",
+    "sideId": "13322_NE_EC0595",
+    "siteName": "13322_NE_EC0595-UTITHINI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "473",
+    "sideId": "12580_NE_EC0136",
+    "siteName": "12580_NE_EC0136-UUNI_Hill_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "474",
+    "sideId": "12569_NE_EC0124",
+    "siteName": "12569_NE_EC0124-WAMUNYU_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "475",
+    "sideId": "17114_NE_EC1126",
+    "siteName": "17114_NE_EC1126-Wetaa_OUTE",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "476",
+    "sideId": "12576_NE_EC0132",
+    "siteName": "12576_NE_EC0132-Yakamete_Hill_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "477",
+    "sideId": "12561_NE_EC0123",
+    "siteName": "12561_NE_EC0123-YATHUI_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "478",
+    "sideId": "17674_NE_EC1217",
+    "siteName": "17674_NE_EC1217-Kenol_Komarock_MGF_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "479",
+    "sideId": "17616_NE_EC1983",
+    "siteName": "17616_NE_EC1983_MAKALIVU_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "480",
+    "sideId": "19362_NE_EC1023",
+    "siteName": "19362_NE_EC1023_Kisekini_Primary_oute",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "481",
+    "sideId": "17624-NE_EC1981",
+    "siteName": "17624-NE_EC1981-Kathama_Market_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "482",
+    "sideId": "17642_NE_ECO607",
+    "siteName": "17642_NE_ECO607-Ngoleni_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "483",
+    "sideId": "18467_NE_EC0566",
+    "siteName": "18467_NE_EC0566-Kingoti_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "484",
+    "sideId": "16676_NE_EC0991",
+    "siteName": "16676_NE_EC0991-Kamuthanga_Market_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MACHA B",
+    "tech_1": "kwach",
+    "tech_2": "Christopher Waigwa"
+  },
+  {
+    "id": "485",
+    "sideId": "12547_NE_ELO805",
+    "siteName": "12547_NE_EL0805-MBUVO_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "486",
+    "sideId": "12556_NE_ELO806",
+    "siteName": "12556_NE_EL0806-MUTONYE_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "487",
+    "sideId": "12563_NE_ELO810",
+    "siteName": "12563_NE_EL0810-KIKOKO_Hill_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "488",
+    "sideId": "12566_NE_ELO813",
+    "siteName": "12566_NE_EL0813-KILUNGU_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "489",
+    "sideId": "12567_NE_ELO814",
+    "siteName": "12567_NE_EL0814-KASIKEUHILL_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "490",
+    "sideId": "12568_NE_ELO815",
+    "siteName": "12568_NE_EL0815-Matiliku_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "491",
+    "sideId": "13014_NE_ELO844",
+    "siteName": "13014_NE_EL0844-KWAMAKENGI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "492",
+    "sideId": "13015_NE_ELO845",
+    "siteName": "13015_NE_EL0845-SULTAN_HAMUD_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "493",
+    "sideId": "13016_NE_ELO846",
+    "siteName": "13016_NE_EL0846-ILTOROTO_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "494",
+    "sideId": "13017_NE_ELO847",
+    "siteName": "13017_NE_EL0847-LURMUTI_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "495",
+    "sideId": "13018_NE_ELO859",
+    "siteName": "13018_NE_EL0859-KIBWEZI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "496",
+    "sideId": "13447_NE_ECO839",
+    "siteName": "13447_NE_EC0839-YU_Emali_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "497",
+    "sideId": "13503_NE_ELO473",
+    "siteName": "13503_NE_EL1473-Muambwani_Hill_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "498",
+    "sideId": "13621_NE_ELO853",
+    "siteName": "13621_NE_EL0853-ELARAI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "499",
+    "sideId": "13763_NE_ELO848",
+    "siteName": "13763_NE_EL0848-CELTEL_MAKINDU_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "500",
+    "sideId": "13923_NE_ELO144",
+    "siteName": "13923_NE_EL1144-MASHURU_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "501",
+    "sideId": "13926_NE_ELO153",
+    "siteName": "13926_NE_EL1153-MUKAA_OUT E_MGF",
+    "siteType": "Hybrid ",
+    "BHT": "8 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "502",
+    "sideId": "13931_NE_ELO154",
+    "siteName": "13931_NE_EL1154-MULALA_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "503",
+    "sideId": "13934_NE_ELO163",
+    "siteName": "13934_NE_EL1163-KASAYANI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "504",
+    "sideId": "13943_NE_ELO167",
+    "siteName": "13943_NE_EL1167-EMALI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "505",
+    "sideId": "13973_NE_ELO166",
+    "siteName": "13973_NE_EL1166-CELTEL_KIBOKO_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "506",
+    "sideId": "13975_NE_ELO169",
+    "siteName": "13975_NE_EL1169-Mbui_Nzau_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "507",
+    "sideId": "14122_NE_ELO187",
+    "siteName": "14122_NE_EL1187-Chumani_Kibwezi_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "508",
+    "sideId": "14150_NE_ELO186",
+    "siteName": "14150_NE_EL1186-MAKINDU_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "509",
+    "sideId": "14151_NE_ELO171",
+    "siteName": "14151_NE_EL1171-KITISE_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "510",
+    "sideId": "14215_NE_ELO189",
+    "siteName": "14215_NE_EL1189-KILOME_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "511",
+    "sideId": "14454_NE_ELO190",
+    "siteName": "14454_NE_EL1190-KALAMBA_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "512",
+    "sideId": "14521_NE_ELO864",
+    "siteName": "14521_NE_EL0864-KIU_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "513",
+    "sideId": "14601_NE_ELO868",
+    "siteName": "14601_NE_EL0868-ITHUMBA_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "514",
+    "sideId": "14747_NE_ELO201",
+    "siteName": "14747_NE_EL1201-VULUENI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "515",
+    "sideId": "14748_NE_ELO224",
+    "siteName": "14748_NE_EL1224-KYONGWANI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "516",
+    "sideId": "14749_NE_ELO202",
+    "siteName": "14749_NE_EL1202-MUSALALA_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "517",
+    "sideId": "14755_NE_ELO350",
+    "siteName": "14755_NE_EL1350-MAIANI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "518",
+    "sideId": "14875_NE_ELO203",
+    "siteName": "14875_NE_EL1203-Kyambeke_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "519",
+    "sideId": "15311_NE_ELO514",
+    "siteName": "15311_NE_EL1514-Lenkisim_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "520",
+    "sideId": "15384_NE_ELO351",
+    "siteName": "15384_NE_EL1351-SULTAN_HAMUD_KWA_RELI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "521",
+    "sideId": "15631_NE_ECO837",
+    "siteName": "15631_NE_EC0837-Yu_Ngokomi_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "522",
+    "sideId": "15743_NE_ELO468",
+    "siteName": "15743_NE_EL1468-YU_Kibwezi_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "523",
+    "sideId": "16609_NE_ELO618",
+    "siteName": "16609_NE_EL1618-Nthia_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "524",
+    "sideId": "16644_NE_ELO342",
+    "siteName": "16644_NE_EL1342-Kitende_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "525",
+    "sideId": "16779_NE_ECO490",
+    "siteName": "16779_NE_EC0490-Ngatu_Shopping__Center_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "526",
+    "sideId": "17117_NE_ELO812",
+    "siteName": "17117_NE_EL1812-YINTHUNGU",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "527",
+    "sideId": "17573_NE_ELO802",
+    "siteName": "17573_NE_EL1802-ISAARA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "528",
+    "sideId": "17577_NE_ELO950",
+    "siteName": "17577_NE_EL1950-Kanzokeani_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "529",
+    "sideId": "17582_NE_ELO892",
+    "siteName": "17582_NE_EL1892-Katinge_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "530",
+    "sideId": "17584_NE_ELO962",
+    "siteName": "17584_NE_EL1962-KATIVANI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "531",
+    "sideId": "17585_NE_ELO964",
+    "siteName": "17585_NE_EL1964-KEVANDA_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "532",
+    "sideId": "17595_NE_ELO966",
+    "siteName": "17595_NE_EL1966-MULILII_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "533",
+    "sideId": "17620_NE_ELO971",
+    "siteName": "17620_NE_EL1971-AIC_MATHEANI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "534",
+    "sideId": "18182_NE_EL580",
+    "siteName": "18182_NE_EL5801_SUNDE_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "535",
+    "sideId": "KIBOKO KPLC",
+    "siteName": "KIBOKO KPLC",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "536",
+    "sideId": "18625_NE_EL0770",
+    "siteName": "18625_NE_EL0770_KAUNGUNI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "537",
+    "sideId": "18875_NE_EL0775",
+    "siteName": "18875_NE_EL0775-TUTINI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "538",
+    "sideId": "17659_NE_EL5956",
+    "siteName": "17659_NE_EL5956-Salama_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "539",
+    "sideId": "18626_NE_EL14771",
+    "siteName": "18626_NE_EL14771-Kalungu_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "540",
+    "sideId": "15373_NE-EL1346",
+    "siteName": "15373_NE-EL1346-Kiundani_Musamba_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "541",
+    "sideId": "17610_NE_EC1138",
+    "siteName": " 17610_NE_EC1138-Kyumbi_Kiasa_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MBS ROAD",
+    "tech_1": "Mukundi",
+    "tech_2": "Desmond Mugambi"
+  },
+  {
+    "id": "542",
+    "sideId": "12841_NE_EL0154",
+    "siteName": "12481_NE_EL0154-Kitui_Kalundu_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "543",
+    "sideId": "12942_NE_EL0803",
+    "siteName": "12482_NE_EL0803-KITUI_MAJENGO",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "544",
+    "sideId": "12050_NE_EC0138",
+    "siteName": "12590_NE_EC0138-KATANGI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "545",
+    "sideId": "12151_NE_EL0824",
+    "siteName": "12591_NE_EL0824-Maviani_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "546",
+    "sideId": "12253_NE_EL0826",
+    "siteName": "12593_NE_EL0826-Kyangulu_Hills_OUT E",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "547",
+    "sideId": "12355_NE_EL0828",
+    "siteName": "12595_NE_EL0828-Kabati_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "548",
+    "sideId": "13432_NE_EL1162",
+    "siteName": "13342_NE_EL1162-Kitui_Majengo_Mapya_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "549",
+    "sideId": "13537_NE_EC0418",
+    "siteName": "13347_NE_EC0418-MYONDONI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "550",
+    "sideId": "13673_NE_EC0202",
+    "siteName": "13703_NE_EC0202-EATON_KATANGI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "551",
+    "sideId": "13788_NE_EC0404",
+    "siteName": "13888_NE_EC0404-Ikombe_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "552",
+    "sideId": "13894_NE_EL1161",
+    "siteName": "13944_NE_EL1161-Mulutu_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "553",
+    "sideId": "13991_NE_EL1159",
+    "siteName": "13961_NE_EL1159-Kitui_KNH_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "554",
+    "sideId": "13094_NE_EL1160",
+    "siteName": "13974_NE_EL1160-Kitui_Endau_Road_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "555",
+    "sideId": "14104_NE_EL1177",
+    "siteName": "14014_NE_EL1177-Mutonga_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "556",
+    "sideId": "14203_NE_EC0413",
+    "siteName": "14073_NE_EC0413-Katutu_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "557",
+    "sideId": "14312_NE_EL1176",
+    "siteName": "14152_NE_EL1176-Central_Primary_SchoolKitui_OUT ",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "558",
+    "sideId": "14415_NE_EL1175",
+    "siteName": "14175_NE_EL1175-Matinyani_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "559",
+    "sideId": "14541_NE_EL0861",
+    "siteName": "14401_NE_EL0861-KYUSYANI_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "560",
+    "sideId": "14673_NE_EL1347",
+    "siteName": "14723_NE_EL1347-Tiva_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "561",
+    "sideId": "14773_NE_EL1178",
+    "siteName": "14743_NE_EL1178-Miambani_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "562",
+    "sideId": "14888_NE_EC0526",
+    "siteName": "14878_NE_EC0526-Seuco_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "563",
+    "sideId": "14997_NE_EL1354",
+    "siteName": "14997_NE_EL1354-Kyua_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "564",
+    "sideId": "15017_NE_EL1344",
+    "siteName": "15197_NE_EL1344-Matulani_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "565",
+    "sideId": "16119_NE_EL1232",
+    "siteName": "16159_NE_EL1232-Thongoni_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "566",
+    "sideId": "16262_NE_EL1445",
+    "siteName": "16632_NE_EL1445-MUSELELE",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "567",
+    "sideId": "16361_NE_EL1309",
+    "siteName": "16651_NE_EL1309-Wanzua_OUT E",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "568",
+    "sideId": "16463_NE_EL1302",
+    "siteName": "16653_NE_EL1302-Kasyala_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "569",
+    "sideId": "16560_NE_EL1906",
+    "siteName": "16680_NE_EL1906-Ikulumbutini_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "570",
+    "sideId": "16694_NE_EL1783",
+    "siteName": "16974_NE_EL1783-itithini_OUTE_",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "571",
+    "sideId": "17704_NE_EL1726",
+    "siteName": "17014_NE_EL1726-Kyamathyaka",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "572",
+    "sideId": "17806_NE_EC1195",
+    "siteName": "17026_NE_EC1195-MAKUTANO YATTA",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "573",
+    "sideId": "17938_NE_EL1352",
+    "siteName": "17358_NE_EL1352-KAKUMUTI",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "574",
+    "sideId": "17062_NE_EL5753",
+    "siteName": "17632_NE_EL5753-MUSENGO_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "575",
+    "sideId": "17169_NE-EL1756-Syongila",
+    "siteName": "17669_NE-EL1756-Syongila-OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "576",
+    "sideId": "18216_NE_EL1226-KITUI",
+    "siteName": "18126_NE_EL1226-KITUI-MJINI_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "577",
+    "sideId": "18351_NE_EL5948",
+    "siteName": "18541_NE_EL5948-KITUI_KATHEKA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "578",
+    "sideId": "12586_NE_EL0820",
+    "siteName": "Museve_OUTE_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "579",
+    "sideId": "17258_NE_EL5967_KITUI_GINNERY_MGF_OUTE",
+    "siteName": "17598_NE_EL5967_KITUI_GINNERY_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "580",
+    "sideId": "18391_NE_EL1919_MBUSYANI_ISYOVIA_MGF_U900_OUTE",
+    "siteName": "18901_NE_EL1919_MBUSYANI_ISYOVIA_MGF_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "581",
+    "sideId": "17564_NE_EL1793_KWA_VONZA_MARKET_OUTE",
+    "siteName": "17604_NE_EL1793_KWA_VONZA_MARKET_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "582",
+    "sideId": "17661_NE_EC5215",
+    "siteName": "17661_NE_EC5215-Mwambathana_MGF_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "583",
+    "sideId": "16649_NE_EL1319",
+    "siteName": "16649_NE_EL1319-Kathivo_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "MWINGI",
+    "tech_1": "David Maina",
+    "tech_2": "Antony Wainaina"
+  },
+  {
+    "id": "584",
+    "sideId": "12769_NE_EL0833",
+    "siteName": "12769_NE_EL0833-Oloitoktok_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "585",
+    "sideId": "12770_NE_EL0834",
+    "siteName": "12770_NE_EL0834-EMali_Makutano_OUT E_MGF_HUB",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "586",
+    "sideId": "13618_NE_EL0850",
+    "siteName": "13618_NE_EL0850-Kimana_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "587",
+    "sideId": "13619_NE_EL0851",
+    "siteName": "13619_NE_EL0851-Illasit_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "588",
+    "sideId": "13620_NE_EL0852",
+    "siteName": "13620_NE_EL0852-Entarara_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "589",
+    "sideId": "13622_NE_EL0854",
+    "siteName": "13622_NE_EL0854-Rombo_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "590",
+    "sideId": "13740_NE_EL1142",
+    "siteName": "13740_NE_EL1142-Olo_Rongai_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "591",
+    "sideId": "13764_NE_EL1141",
+    "siteName": "13764_NE_EL1141-OLdonyo_Odawa_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "592",
+    "sideId": "13927_NE_EL1143",
+    "siteName": "13927_NE_EL1143-Oloitoktok_Kamukunji_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "593",
+    "sideId": "14257_NE_EL0849",
+    "siteName": "14257_NE_EL0849-OlTukai_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "594",
+    "sideId": "15025_NE_EL1205",
+    "siteName": "15025_NE_EL1205-Iltilal_OUTE_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "595",
+    "sideId": "17562_NE_EL0769",
+    "siteName": "17562_NE_EL0769-AMBOSELI-JUNCTION_MGF",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "596",
+    "sideId": "17570_NE_EL1982",
+    "siteName": "17570_NE_EL1982-ENDONET_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "597",
+    "sideId": "19150_NE_EL0178",
+    "siteName": "19150_NE_EL0178-KIMANA_KIKONDOO_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "598",
+    "sideId": "17637_NE_EL1974",
+    "siteName": "17637_NE_EL1974_NAMELOCK_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "NONE"
+  },
+  {
+    "id": "599",
+    "sideId": "16668_NE_EL5209",
+    "siteName": "16668_NE_EL5209-Isinet_OUTE",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "REMOTE MBS RD",
+    "tech_1": "Peter Njoroge",
+    "tech_2": "None"
+  },
+  {
+    "id": "600",
+    "sideId": "12020_NE_NM1212",
+    "siteName": "12020_NE_NM1212-Ongata_Rongai_HUB",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "601",
+    "sideId": "12089_NE_NM1239",
+    "siteName": "12089_NE_NM1239-Ngong_Town_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "602",
+    "sideId": "12215_NE_NM1260",
+    "siteName": "12215_NE_NM1260-Olepolos_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "603",
+    "sideId": "12217_NE_NM1262",
+    "siteName": "12217_NE_NM1262-Mwitu_OUT E",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "604",
+    "sideId": "12218_NE_NM1263",
+    "siteName": "12218_NE_NM1263-Ngunyi_Road_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "605",
+    "sideId": "12221_NE_NM1267",
+    "siteName": "12221_NE_NM1267-Laiser_Hill_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "606",
+    "sideId": "12224_NE_NM1270",
+    "siteName": "12224_NE_NM1270-Ongata_Rongai_Kware_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "607",
+    "sideId": "12225_NE_NM1271",
+    "siteName": "12225_NE_NM1271-Ole_Pere_Road",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "608",
+    "sideId": "12235_NE_NM1276",
+    "siteName": "12235_NE_NM1276-Banda_OUT E",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "609",
+    "sideId": "12236_NE_NM1277",
+    "siteName": "12236_NE_NM1277-Mayor_Road_OUT E",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "610",
+    "sideId": "12337_NE_NM1307",
+    "siteName": "12337_NE_NM1307-Matathia_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "611",
+    "sideId": "12357_NE_EC0005",
+    "siteName": "12357_NE_EC0005-Shanamu_Hill_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "612",
+    "sideId": "12358_NE_EC0006",
+    "siteName": "12358_NE_EC0006-Kisamese_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "613",
+    "sideId": "12359_NE_EC0007",
+    "siteName": "12359_NE_EC0007-Ololitepes_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "614",
+    "sideId": "12768_NE_EC0226",
+    "siteName": "12768_NE_EC0226-Magadi_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "615",
+    "sideId": "12777_NE_EC0493",
+    "siteName": "12777_NE_EC0493-OLDONYO NYOKIE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "616",
+    "sideId": "13667_NE_NM1327",
+    "siteName": "13667_NE_NM1327-Rongai_Magadi_Rd_OUT E",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "617",
+    "sideId": "13668_NE_NM1328",
+    "siteName": "13668_NE_NM1328-Ololua_OUT E",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "618",
+    "sideId": "13669_NE_NM1329",
+    "siteName": "13669_NE_NM1329-Mbondeni_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "619",
+    "sideId": "13682_NE_EC0230",
+    "siteName": "13682_NE_EC0230-Ngurumani_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "620",
+    "sideId": "13717_NE_NM1330",
+    "siteName": "13717_NE_NM1330-Kibiko_OUT E",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "621",
+    "sideId": "13758_NE_NM1354",
+    "siteName": "13758_NE_NM1354-BUL_BUL_MARKET_OUT E",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "622",
+    "sideId": "13761_NE_NM1353",
+    "siteName": "13761_NE_NM1353-Nkoroi",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "623",
+    "sideId": "13783_NE_EC0010",
+    "siteName": "13783_NE_EC0010-OLEPOLOS_HILL_OUT E_MGF",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "624",
+    "sideId": "13800_NE_NM1352",
+    "siteName": "13800_NE_NM1352-Rongai_Township_OUT E",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "625",
+    "sideId": "13898_NE_NM1359",
+    "siteName": "13898_NE_NM1359-Rongai_Chiefs_Camp_OUT E",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "626",
+    "sideId": "14106_NE_NM1339",
+    "siteName": "14106_NE_NM1339-Kiserian_Town_OUT E_II_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "627",
+    "sideId": "14107_NE_NM1331",
+    "siteName": "14107_NE_NM1331-Nazarene_University_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "628",
+    "sideId": "14136_NE_NM1338",
+    "siteName": "14136_NE_NM1338-Rongai_Imani_Rd_OUT E",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "629",
+    "sideId": "14499_NE_NM1413",
+    "siteName": "14499_NE_NM1413-Upper_Matasia_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "630",
+    "sideId": "14584_NE_NM1414",
+    "siteName": "14584_NE_NM1414-Ongata_Rongai_SOUT E_",
+    "siteType": "Lvps",
+    "BHT": "5hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "631",
+    "sideId": "14595_NE_NM1430",
+    "siteName": "14595_NE_NM1430-Tuala_Market_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "632",
+    "sideId": "14638_NE_NM1208",
+    "siteName": "14638_NE_NM1208-Ngong_Town_Centre_OUT E",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "633",
+    "sideId": "14646_NE_NM1221",
+    "siteName": "14646_NE_NM1221-Ongata_Rongai_Mithika_OUT E",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "634",
+    "sideId": "14696_NE_NM1204",
+    "siteName": "14696_NE_NM1204-Kiserian_Primary_OUT E",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "635",
+    "sideId": "15048_NE_NM1456",
+    "siteName": "15048_NE_NM1456-Rongai_Rimpa_OUT E",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "636",
+    "sideId": "15052_NE_NM1441",
+    "siteName": "15052_NE_NM1441-Multimedia_University_OUT E",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "637",
+    "sideId": "15471_NE_NM1562",
+    "siteName": "15471_NE_NM1562-St._Paul_Bulbul_OUT E",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "638",
+    "sideId": "15821_NE_NM3479",
+    "siteName": "15821_NE_NM3479-Ngong_Juanco",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "639",
+    "sideId": "16524_NE_NM5892",
+    "siteName": "16524_NE_NM5892-Ngong_Kibiko_Kwa_JT",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "640",
+    "sideId": "16753_NE_EC0752",
+    "siteName": "16753_NE_EC0752-PAKASE_OUT E",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "641",
+    "sideId": "16776_NE_EC0495",
+    "siteName": "16776_NE_EC0495-Oltepesi_OUT E",
+    "siteType": "Lvps",
+    "BHT": "14 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "642",
+    "sideId": "16883_NE_EC0923",
+    "siteName": "16883_NE_EC0923-Olonjoronyori_OUT E",
+    "siteType": "Lvps",
+    "BHT": "15 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "643",
+    "sideId": "17032_NE_NM1458",
+    "siteName": "17032_NE_NM1458-MATASIA OLKERI",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "644",
+    "sideId": "17123_NE_EC1898",
+    "siteName": "17123_NE_EC1898-Endoinyo_Olasho_OUTE",
+    "siteType": "Lvps",
+    "BHT": "2 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "645",
+    "sideId": "17124_NE_EC1904",
+    "siteName": "17124_NE_EC1904-Oloika_OUTE",
+    "siteType": "Lvps",
+    "BHT": "7 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "646",
+    "sideId": "17234_NE_NM1836",
+    "siteName": "17234_NE_NM1836-Kiserian Game",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "647",
+    "sideId": "17540_NE_EC1931",
+    "siteName": "17540_NE_EC1931-Kisamis_Market",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "648",
+    "sideId": "17564_NE_EC1145",
+    "siteName": "17564_NE_EC1145_CORNER_BARIDI_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "649",
+    "sideId": "17589_NE_NM5828",
+    "siteName": "17589_NE_NM5828-Kimuka_Shopping_centre",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "650",
+    "sideId": "17593_NE_NM1914",
+    "siteName": "17593_NE_NM1914-Kiserian_Dam_Estate_Road",
+    "siteType": "Lvps",
+    "BHT": "9 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "651",
+    "sideId": "17611_NE_NM5813",
+    "siteName": "17611_NE_NM5814-leleshwa_Gateway_MGF",
+    "siteType": "Lvps",
+    "BHT": "8 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "652",
+    "sideId": "17622_NE_NM5902",
+    "siteName": "17622_NE_NM5902-Marisho_Karen_View_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "653",
+    "sideId": "17643_NE_NM1770",
+    "siteName": "17643_NE_NM1770-NGURUNGA_OUTE",
+    "siteType": "Lvps",
+    "BHT": "3 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "654",
+    "sideId": "17649_NE_NM5903",
+    "siteName": "17649_NE_NM5903-Oloosirutia_ACK_Church",
+    "siteType": "Lvps",
+    "BHT": "4 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "655",
+    "sideId": "17655_NE_NM5901",
+    "siteName": "17655_NE_NM5901-RANGAU_RIMPA_OUTE",
+    "siteType": "Gen to be started on the 4th hr",
+    "BHT": "5hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "656",
+    "sideId": "17684_NE_NM1784",
+    "siteName": "17684_NE_NM1784-Ole_Roimen_ROAD",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "657",
+    "sideId": "17689_NE_NM5813",
+    "siteName": "17689_NE_NM5813-RANGAU_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "658",
+    "sideId": "18111_NE_NM5933",
+    "siteName": "18111_NE_NM5933-Olepolos_Kimbo_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "24 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "659",
+    "sideId": "17654_NE_NM4575",
+    "siteName": "17654_NE_NM4575_Rockfields_Senior_School_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "11 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "660",
+    "sideId": "15322_NE_NM1517",
+    "siteName": "15322_NE_NM1517-RONGAI_MBWAWA_MGF_OUTE",
+    "siteType": "Lvps",
+    "BHT": "5 hrs ",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "661",
+    "sideId": "16861_NE_EC0739",
+    "siteName": "16861_NE_EC0739-LOODARIAK",
+    "siteType": "Lvps",
+    "BHT": "35 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "662",
+    "sideId": "18465_NE_EC0710",
+    "siteName": "18465_NE_EC0710-Saikeri_OUTE",
+    "siteType": "Lvps",
+    "BHT": "4 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "663",
+    "sideId": "16484_NE_NM1625",
+    "siteName": "16484_NE_NM1625-Ongata_Rongai_Kandisi_Road_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  },
+  {
+    "id": "664",
+    "sideId": "16860_NE_EC1869",
+    "siteName": "16860_NE_EC1869-EREMIT_MGF_U900_OUTE",
+    "siteType": "Lvps",
+    "BHT": "6 hrs",
+    "region": "RONGAI",
+    "tech_1": "Alubai ",
+    "tech_2": "Harrison Ndonga"
+  }
+]
