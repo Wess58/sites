@@ -1,1 +1,66 @@
-<p>home works!</p>
+<div class="container-fluid home-page">
+
+  <div class="search-div">
+    <div class="row justify-content-center">
+      <div class="col-md-5">
+        <div class="form-group">
+          <input type="text" class="form-control" id="special" aria-describedby="searchTerm" placeholder="Search site" [(ngModel)]="searchTerm" (keyup)="search()">
+        </div>
+
+        <div class="search-list" *ngIf="filteredSites?.length > 0 && open">
+          <ul>
+            <li *ngFor="let site of filteredSites;index as i" (click)="selectSite(site)">
+              {{site.siteName | slice : 16}} <span class="badge badge-secondary float-right" [ngClass]="{'badge-primary':site.siteType === 'Lvps', 'badge-warning':site.siteType === 'Hybrid'}">{{site.siteType}}</span>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="row">
+    <div class="col-md-8">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">id</th>
+            <th scope="col">Site name</th>
+            <th scope="col">Site type</th>
+            <th scope="col">BHT</th>
+            <th scope="col">Technician</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let site of sites;index as i">
+            <td>{{site.id}}</td>
+            <td>{{site.siteName | slice : 16}}</td>
+            <td>{{site.siteType}}</td>
+            <td>{{site.BHT}}</td>
+            <td>{{site.tech_1}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4">
+      <div class="card">
+
+        <h5>LVPS sites</h5>
+        <p>{{lvps | json}}</p>
+
+        <h5>Hybrid sites</h5>
+        <p>{{hybrid | json}}</p>
+
+        <h5>To be started sites</h5>
+        <p>{{toBeStarted | json}}</p>
+
+        <h5>To be deployed sites</h5>
+        <p>{{toBeDeployed | json}}</p>
+
+      </div>
+    </div>
+  </div>
+</div>

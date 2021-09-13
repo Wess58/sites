@@ -1,0 +1,114 @@
+.home-page {
+  padding-top: 80px;
+
+  .search-div {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: #fff;
+    z-index: 100;
+
+    input {
+      outline: none;
+      box-shadow: none;
+      border-radius: 20px;
+      padding: 10px 20px;
+      border: 2px solid #e1e1e1;
+
+      &:focus,
+      &:hover {
+        border: 2px solid #3c4043;
+      }
+    }
+
+    .search-list {
+      background-color: #fff;
+      border: 1px solid #e1e1e1;
+      width: 97%;
+      border-radius: 8px;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      position: absolute;
+      top: 80px;
+      z-index: 1100!important;
+      max-height: 300px;
+      overflow-y: scroll;
+
+      &::-webkit-scrollbar {
+        width: 5px;
+        background: transparent;
+      }
+
+      &::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px transparent;
+        border-radius: 50px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        border-radius: 15px;
+        background: #1472C8;
+      }
+
+      ul {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+
+        li {
+          padding: 10px 20px;
+          border-bottom: 1px solid #f1f1f1;
+
+          &:last-child {
+            border-bottom: none;
+          }
+
+          &:hover {
+            background-color: #f1f1f1;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+
+  .table {
+    thead {
+      position: sticky;
+      top: 80px;
+      background-color: #fff;
+      border-bottom: 1px solid #e1e1e1;
+
+      th {
+        font-size: 0.9rem;
+        color: #5f6063;
+      }
+    }
+
+    tbody {
+      border: 1px solid #e1e1e1;
+
+      tr {
+        &:hover {
+          background-color: #f1f1f144;
+        }
+
+        td {
+          font-size: 0.9rem;
+          color: #5f6063;
+        }
+      }
+    }
+  }
+
+  .card {
+    position: sticky;
+    top: 125px;
+    padding: 20px;
+    border-radius: 8px;
+
+    h5 {
+      color: #5f6063;
+      font-weight: 600;
+    }
+  }
+}

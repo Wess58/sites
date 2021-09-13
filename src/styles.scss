@@ -1,1 +1,48 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import './assets/css/font-montserrat.css';
+
+body {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.badge {
+  text-transform: uppercase;
+  font-size: 13px !important;
+  border-radius: 20px;
+  padding: 7px 12px !important;
+  vertical-align: middle;
+  font-size: 0.8rem;
+  letter-spacing: 0.5px;
+}
+
+.badge-danger {
+  background-color: #f3d1d1;
+  color: #a90909;
+}
+
+.badge-success {
+  background-color: #adf0cc;
+  color: #14713f;
+}
+
+.badge-secondary {
+  background-color: #f1f1f1;
+  color: #5f6063;
+}
+
+.badge-primary {
+  background-color: #b3e4f5;
+  color: #11637e;
+}
+
+.badge-warning {
+  // background-color: #fff2de;
+  // color: #CF9730;
+  background-color: #fff2de;
+  color: #a76807;
+}

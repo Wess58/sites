@@ -4,7 +4,11 @@ import { HomeComponent } from "./home/home.component";
 
 const routes: Routes = [
   {
-    path: 'schedules',
+    path: '',
+    component: HomeComponent
+  },
+  {
+    path: 'sites',
     component: HomeComponent
   },
 ];
