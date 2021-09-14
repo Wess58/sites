@@ -7,9 +7,9 @@
           <input type="text" class="form-control" id="special" aria-describedby="searchTerm" placeholder="Search site" [(ngModel)]="searchTerm" (keyup)="search()">
         </div>
 
-        <div class="search-list" *ngIf="filteredSites?.length > 0 && open">
+        <div class="search-list" *ngIf="filteredSites?.length > 0 && open && searchTerm">
           <ul>
-            <li *ngFor="let site of filteredSites;index as i" (click)="selectSite(site)">
+            <li *ngFor="let site of filteredSites;index as i" (click)="selectSite(site)" id="special">
               {{site.siteName | slice : 16}} <span class="badge badge-secondary float-right" [ngClass]="{'badge-primary':site.siteType === 'Lvps', 'badge-warning':site.siteType === 'Hybrid'}">{{site.siteType}}</span>
             </li>
           </ul>
@@ -18,8 +18,6 @@
       </div>
     </div>
   </div>
-
-
 
 
   <div class="row">
@@ -48,17 +46,36 @@
     <div class="col-md-4">
       <div class="card">
 
-        <h5>LVPS sites</h5>
-        <p>{{lvps | json}}</p>
+        <h5 *ngIf="lvps.length === 0 && hybrids.length === 0 && toBeStarteds.length === 0 && toBeDeployeds.length === 0" style="color:#a90909">No site selected ! <span><i class="fas fa-frown"></i></span></h5>
 
-        <h5>Hybrid sites</h5>
-        <p>{{hybrid | json}}</p>
 
-        <h5>To be started sites</h5>
-        <p>{{toBeStarted | json}}</p>
+        <h5 *ngIf="lvps.length > 0" [@fadeIn]>LVPS sites <span><i class="fas fa-clipboard float-right" title="Copy" (click)="copy('lvps')"></i></span></h5>
+        <ul>
+          <li *ngFor="let sentence of lvps;index as i">
+            {{sentence}} <span><i class="fas fa-times-circle ml-2" (click)="deselect(i,'lvps')"></i></span>
+          </li>
+        </ul>
 
-        <h5>To be deployed sites</h5>
-        <p>{{toBeDeployed | json}}</p>
+        <h5 *ngIf="hybrids.length > 0" [@fadeIn]>Hybrid sites <span><i class="fas fa-clipboard float-right" title="Copy" (click)="copy('hybrids')"></i></span></h5>
+        <ul>
+          <li *ngFor="let sentence of hybrids;index as i">
+            {{sentence}} <span><i class="fas fa-times-circle ml-2" (click)="deselect(i,'hybrids')"></i></span>
+          </li>
+        </ul>
+
+        <h5 *ngIf="toBeStarteds.length > 0" [@fadeIn]>To be started sites <span><i class="fas fa-clipboard float-right" title="Copy" (click)="copy('toBeStarteds')"></i></span></h5>
+        <ul>
+          <li *ngFor="let sentence of toBeStarteds;index as i">
+            {{sentence}} <span><i class="fas fa-times-circle ml-2" (click)="deselect(i,'toBeStarteds')"></i></span>
+          </li>
+        </ul>
+
+        <h5 *ngIf="toBeDeployeds.length > 0" [@fadeIn]>To be deployed sites <span><i class="fas fa-clipboard float-right" title="Copy" (click)="copy('toBeDeployeds')"></i></span></h5>
+        <ul>
+          <li *ngFor="let sentence of toBeDeployeds;index as i">
+            {{sentence}} <span><i class="fas fa-times-circle ml-2" (click)="deselect(i,'toBeDeployeds')"></i></span>
+          </li>
+        </ul>
 
       </div>
     </div>

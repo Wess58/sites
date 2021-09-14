@@ -35,9 +35,9 @@ export class HomeComponent implements OnInit {
   selectedList: any = [];
   filteredSites: any = [];
   lvps: any = [];
-  hybrid: any = [];
-  toBeStarted: any = [];
-  toBeDeployed: any = [];
+  hybrids: any = [];
+  toBeStarteds: any = [];
+  toBeDeployeds: any = [];
   searchTerm: any;
   open = false;
 
@@ -62,7 +62,7 @@ export class HomeComponent implements OnInit {
 
   selectSite(site: any): void {
 
-    const sentence = site.siteName.slice(16) + ' ' + site.BHT + ' bht';
+    const sentence = site.siteName.slice(16) + ' ' + site.BHT + ' bht ' + '@' + site.tech_1;
 
 
     if (site.siteType === 'Lvps') {
@@ -70,16 +70,54 @@ export class HomeComponent implements OnInit {
     }
 
     if (site.siteType === 'Hybrid') {
-      this.hybrid.push(sentence);
+      this.hybrids.push(sentence);
     }
 
     if (site.siteType === 'to be started') {
-      this.toBeStarted.push(sentence);
+      this.toBeStarteds.push(sentence);
     }
 
     if (site.siteType === 'to be deployed') {
-      this.toBeDeployed.push(sentence);
+      this.toBeDeployeds.push(sentence);
     }
+  }
+
+  deselect(index: any, type: any): void {
+    if (type === 'lvps') {
+      this.lvps.splice(index, 1);
+    }
+    if (type === 'hybrids') {
+      this.hybrids.splice(index, 1);
+
+    }
+    if (type === 'toBeStarteds') {
+      this.toBeStarteds.splice(index, 1);
+    }
+    if (type === 'toBeDeployeds') {
+      this.toBeDeployeds.splice(index, 1);
+
+    }
+  }
+
+  copy(type: any): void {
+
+    if (type === 'lvps') {
+      navigator.clipboard.writeText('Lvps sites: ' + this.lvps);
+    }
+
+    if (type === 'hybrids') {
+      navigator.clipboard.writeText('Hybrid sites: ' + this.hybrids);
+    }
+
+    if (type === 'toBeStarteds') {
+      navigator.clipboard.writeText('Gen to be started: ' + this.toBeStarteds);
+    }
+
+    if (type === 'toBeDeployeds') {
+      navigator.clipboard.writeText('Gen to be deployed: ' + this.toBeDeployeds);
+    }
+
+
   }
 
 }

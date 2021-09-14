@@ -29,7 +29,7 @@
       border-radius: 8px;
       box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05);
       position: absolute;
-      top: 80px;
+      top: 60px;
       z-index: 1100!important;
       max-height: 300px;
       overflow-y: scroll;
@@ -109,6 +109,24 @@
     h5 {
       color: #5f6063;
       font-weight: 600;
+
+      .fa-clipboard {
+        cursor: pointer;
+        color: #1472C8;
+      }
+    }
+
+    ul {
+      padding-left: 10px;
+
+      li {
+        color: #80868b;
+      }
+    }
+
+    .fa-times-circle {
+      color: #a90909;
+      cursor: pointer;
     }
   }
 }
